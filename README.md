@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fatmazgucc
+- I am a computer engineer. I graduated in 2017 from Marmara University, Istanbul, Turkey.
+- I have mostly worked on Java programming language. Used many different technologies such as Java Spring, Hibernate, Jenkins, Svn, git...
+- I’m currently trying to learn more on C, C++ . And also, i hope to learn about Machine learning and some front-end development skills such as React Javascript
+- You can mail me to contact : fatma.guc.2261@gmail.com
